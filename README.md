@@ -17,9 +17,9 @@ Aplicação web desenvolvida com Streamlit que consome a API pública de nomes d
 
 ## Como executar
 
-git clone https://github.com/leoalcantarahantec-dot/API-IBGE.git
-cd API-IBGE
-pip install -r requirements.txt
-streamlit run miniprojeto.py
+-git clone https://github.com/leoalcantarahantec-dot/API-IBGE.git
+-cd API-IBGE
+-pip install -r requirements.txt
+-streamlit run miniprojeto.py
 
 
